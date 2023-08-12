@@ -10,7 +10,7 @@
 
 ### Or
 
-`java -jar target/consumer_kafka.jar [groupid] [latest|earliest]`
+`java -jar target/consumer_kafka.jar [topicname] [groupid] [latest|earliest]`
 
 ## How to start zookeeper and kafka servers
 
